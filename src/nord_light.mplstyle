@@ -1,0 +1,23 @@
+# Set black background default line colors to white.
+
+lines.color: '2e3440'
+patch.edgecolor: '2e3440'
+
+text.color: '2e3440'
+
+axes.facecolor: 'eceff4'
+axes.edgecolor: '2e3440'
+axes.labelcolor: '2e3440'
+axes.prop_cycle: cycler('color', ['5e81ac', '88c0d0', 'bf616a', 'd08770', 'ebcb8b', 'a3be8c', 'b48ead', 'd8dee9'])
+
+xtick.color: '2e3440'
+ytick.color: '2e3440'
+
+grid.color: '434c5e'
+
+figure.facecolor: 'eceff4'
+figure.edgecolor: black
+
+savefig.facecolor: 'eceff4'
+savefig.edgecolor: black
+
